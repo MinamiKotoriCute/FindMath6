@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/big.png</file>
+        <file>image/box.png</file>
+        <file>image/canvas mode.png</file>
+        <file>image/capture_on.png</file>
+        <file>image/clear.png</file>
+        <file>image/close.png</file>
+        <file>image/color.png</file>
+        <file>image/EqnEye.png</file>
+        <file>image/general mode.png</file>
+        <file>image/next_on.png</file>
+        <file>image/normal.png</file>
+        <file>image/pen.png</file>
+        <file>image/re.png</file>
+        <file>image/small.png</file>
+    </qresource>
+</RCC>
